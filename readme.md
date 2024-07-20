@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Nodes](https://github.com/RickyChez#nodes) | [About Us](https://github.com/RickyChez/cheznodes/blob/main/about) | [Blog](https://medium.com/@RickyChez) | [Docs]()
+# [Nodes](https://github.com/RickyChez#nodes) | [About Us](https://github.com/RickyChez/cheznodes/blob/main/about) | [Blog](https://medium.com/@RickyChez)
 
 # Rickey Chezza
 
@@ -54,7 +54,7 @@
 
 ![image](https://github.com/user-attachments/assets/bdea8238-ffcd-4665-ad90-41c9050df797)
 
-[Keybase](https://keybase.io/rickychez) | [Twitter](https://x.com/RickyChezzzZ) | [Discord](https://discord.com/users/981573689998991410) | [Medium](https://medium.com/@RickyChez) | [Gitbook]()
+[Keybase](https://keybase.io/rickychez) | [Twitter](https://x.com/RickyChezzzZ) | [Discord](https://discord.com/users/981573689998991410) | [Medium](https://medium.com/@RickyChez)
 
 </div>
 
