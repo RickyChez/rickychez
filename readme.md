@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Nodes](https://github.com/RickyChez#nodes) | [About Us](https://github.com/RickyChez/cheznodes/blob/main/about) | [Blog](https://medium.com/@RickyChez)
+# [Nodes](https://github.com/RickyChez#nodes) | [About](https://github.com/RickyChez/cheznodes/blob/main/about) | [Blog](https://medium.com/@RickyChez)
 
 # Rickey Chezza
 
